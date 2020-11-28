@@ -1,6 +1,6 @@
 # Virtual-Assistant
 voice enabled web app which do various activities when asked to do so by voice or by text
-![alt text](static/techtriobg.jpeg)
+![alt text](virtual-assistant/static/techtriobg.jpeg)
 
 This is the project of the team "Techtrio".
 
